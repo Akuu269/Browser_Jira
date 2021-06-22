@@ -1,0 +1,51 @@
+body{
+    margin : 0px;
+    background-color: rgb(5, 84, 90);
+}
+.input-container{
+    /*margin : 0px; */ 
+    background-color: rgb(104, 19, 19);
+    height: 100px;
+    
+}
+.input-box{
+    font-family:  'Odibee Sans', cursive;
+    height: 50%;
+    width: 50%;
+    border: 3px solid black;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+.main-container{
+    font-family:  'Odibee Sans', cursive;
+    /*background-color: rgb(230,126,34); */
+    /*height: 50px; */
+    text-align: center;
+    
+
+    
+}
+.action{
+    font-size: 2rem;
+}
+.task-list{
+    width: 70 vw;
+    margin: 0 auto;
+    padding: 0;
+}
+.task{
+    background-color: #f5dfdc;
+    font-size: 2rem;
+    width: 60rem;
+    height: 2.5rem;
+    margin-top: 1rem;
+    margin-left: 15rem;
+
+    
+}
+.li{
+    list-style: none;
+}
+
